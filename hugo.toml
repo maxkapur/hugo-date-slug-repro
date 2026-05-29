@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'My New Hugo Project'
-
+theme = 'dummy-theme'
 
 # Extract date from filename, but allow explicit override in frontmatter
 [frontmatter]
