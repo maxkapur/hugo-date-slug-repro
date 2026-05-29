@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+
+
+# Extract date from filename, but allow explicit override in frontmatter
+[frontmatter]
+date = ["date", ":filename"]
+
+# Incorporate dates into post permalinks
+[permalinks]
+posts = "/posts/:year-:month-:day-:slug"
