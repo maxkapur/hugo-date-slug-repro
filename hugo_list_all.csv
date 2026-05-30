@@ -1,4 +1,4 @@
 path,slug,title,date,expiryDate,publishDate,draft,permalink,kind,section
-content/posts/2026-05-24-foo.md,,,2026-05-24T11:59:59Z,0001-01-01T00:00:00Z,2026-05-24T11:59:59Z,false,https://example.org/posts/2026-05-24-/,page,posts
-content/posts/2026-05-24-bar.md,bar,,2026-05-24T00:00:00Z,0001-01-01T00:00:00Z,2026-05-24T00:00:00Z,false,https://example.org/posts/2026-05-24-bar/,page,posts
+content/posts/2026-05-24-foo.md,,,2026-05-24T11:59:59Z,0001-01-01T00:00:00Z,2026-05-24T11:59:59Z,false,https://example.org/posts/2026-05-24-foo/,page,posts
+content/posts/2026-05-24-bar.md,bar,,2026-05-24T00:00:00Z,0001-01-01T00:00:00Z,2026-05-24T00:00:00Z,false,https://example.org/posts/bar/,page,posts
 themes/dummy-theme/content/_index.md,,Home,2023-01-01T08:00:00-07:00,0001-01-01T00:00:00Z,2023-01-01T08:00:00-07:00,false,https://example.org/,home,
